@@ -3,5 +3,5 @@ DB_USER=root
 DB_PASSWORD=
 DB_DATABASE=gsjs_attendance
 PORT=3001
-JWT_SECRET=kunci_rahasia_anda
+JWT_SECRET=kunci_rahasia_anda1
 RESEND_API_KEY=re_HZoAcUPT_KNkeFNGdFZLuzuuvZbBdEGRL
