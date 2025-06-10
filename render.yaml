@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: gsjs-backend
+    env: node
+    plan: free
+    buildCommand: npm install
+    startCommand: node index.js
+    branch: main
+    runtime: node
+    region: singapura
+    envVars:
+      - key: NODE_ENV
+        value: production
