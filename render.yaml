@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: gsjs-backend
+    name: GSJS-Backends
     env: node
     plan: free
     buildCommand: npm install
